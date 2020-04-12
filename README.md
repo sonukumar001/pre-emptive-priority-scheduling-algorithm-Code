@@ -1,2 +1,2 @@
 # pre-emptive-priority-scheduling-algorithm-Code
-pre-emptive priority scheduling algorithm Code- OS Assignment
+Pre-emptive priority scheduling algorithm Code- OS Assignment
